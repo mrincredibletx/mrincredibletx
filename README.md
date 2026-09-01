@@ -8,14 +8,6 @@
 
 ---
 
-## 🎯 My GitHub Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mrincredibletx/mrincredibletx/main/dist/github-jet.svg" alt="GitHub Jet Heatmap" width="100%" />
-</p>
-
----
-
 ## 🧑‍💻 About Me
 
 - 🎓 B.Tech Computer Science & Engineering student at **UEM Jaipur**
@@ -23,7 +15,7 @@
 - ☁️ Exploring **Google Cloud, Cloud Computing & AI**
 - 💻 Working with **Python, Java, C, SQL & Web Technologies**
 - 🚀 Hackathon enthusiast & technical event organizer
-- 👥 Community builder and student-leader
+- 👥 Community builder and student leader
 - 🎨 Experienced in **Graphics, Branding & Technical Event Design**
 - 🌱 Currently learning and building projects around **AI/ML & Data Science**
 - 📍 Based in **India**
@@ -32,13 +24,13 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
 </p>
 
-### AI / ML & Data Science
+### 🤖 AI / ML & Data Science
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
@@ -51,13 +43,13 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-### Development & Tools
+### 🌐 Development & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mysql,mongodb,git,github,vscode,figma,arduino,linux" />
 </p>
 
-### Cloud
+### ☁️ Cloud
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=gcp" />
@@ -90,16 +82,20 @@
 
 ## 📌 Featured Projects
 
-### 🤖 AI / ML
+### 🤖 AI / ML Projects
+
 > Machine Learning and Data Science projects focused on solving real-world problems.
 
 ### 🚗 Intelligent Vehicle Accident Reporting System
+
 > IoT + GPS based accident detection and emergency reporting system with cloud integration.
 
 ### ⚖️ Advanced Jury System
+
 > Blockchain-based decentralized jury/voting system built using Solidity, Hardhat and React.
 
 ### 🌱 Smart Agriculture System
+
 > IoT-based agriculture monitoring system using environmental and soil sensors.
 
 ---
@@ -108,11 +104,15 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrincredibletx&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrincredibletx&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrincredibletx&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
+---
+
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrincredibletx&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrincredibletx&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -120,7 +120,7 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrincredibletx/mrincredibletx/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/mrincredibletx/mrincredibletx/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
@@ -133,7 +133,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/rakesh-bangra/" target="_blank">
+<a href="https://www.linkedin.com/in/rakesh-bangra-706b41286/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
